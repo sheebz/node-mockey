@@ -1,4 +1,6 @@
-node-mockey
-===========
+# node-mockey
+node-mockey provides a nodejs client API for [Mockey](https://github.com/clafonta/Mockey).
 
-consume mock web services from node
+# Instalation 
+`npm install node-mockey` 
+
