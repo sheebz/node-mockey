@@ -2,7 +2,8 @@ describe('mockey', function () {
     var should = require("should"),
         assert = require('assert'),
         colors = require('colors'),
-        mockey = require('../index');
+        NodeMockey = require('../index');
+    var mockey = new NodeMockey('localhost:8080');
     describe('#configureService()', function () {
 
         it('should return a response', function (done) {

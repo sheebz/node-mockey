@@ -1,0 +1,54 @@
+{
+    "author":{
+        "email":"rob.schieber@gmail.com",
+        "name":"Rob Schieber",
+        "url":"https://twitter.com/sheebz"
+    },
+    "bugs":{
+        "mail":"rob.schieber@gmail.com",
+        "url":" https://github.com/sheebz/node-mockey/issues"
+    },
+    "dependencies":{
+        "colors":"latest",
+        "request":"latest",
+        "q":"latest",
+        "underscore":"latest",
+        "qs":"latest"
+    },
+    "description":"Interact with mock services from node",
+    "devDependencies":{
+        "mocha":"~1.5.0",
+        "should":"~1.2.0"
+    },
+    "directories":{
+        "example":"./example",
+        "lib":"./lib",
+        "test":"./test"
+    },
+    "engines":{
+        "node":">0.6.0"
+    },
+    "keywords":
+            [
+                "Mockey",
+                "Mock",
+                "Services",
+                "Test",
+                "Testing"
+            ],
+    "licenses":
+            [
+                {
+                    "type":"MIT",
+                    "url":"https://github.com/sheebz/node-mockey/blob/master/README.md"
+                }
+            ],
+    "main":"index.js",
+    "name":"node-mockey",
+    "private":false,
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/sheebz/node-mockey"
+    },
+    "version":"0.0.1"
+}
