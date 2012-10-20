@@ -20,7 +20,7 @@ Configure mockey service to return an invalid auth response - maybe as part of a
 
             mockey.configureService({
                 serviceName:'Auth',
-                scenerioName:'invalid',
+                scenarioName:'invalid',
                 serviceResponseType:'static'
                 //serviceId:0,
                 //scenerioId:0,
